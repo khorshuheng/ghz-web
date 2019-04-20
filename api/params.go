@@ -4,7 +4,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/labstack/echo"
+	"github.com/labstack/echo/v4"
 )
 
 // TODO add tests

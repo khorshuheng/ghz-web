@@ -9,5 +9,4 @@
 - [ ] Delete endpoints
 - [ ] Add slug as trunkated name
 - [ ] RawRequest should come from ghz reporter or unify repos ?
-- [ ] Switch to go modules ?
 - [ ] Notifications & webhooks ?

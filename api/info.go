@@ -6,7 +6,7 @@ import (
 	"time"
 
 	"github.com/bojand/ghz-web/config"
-	"github.com/labstack/echo"
+	"github.com/labstack/echo/v4"
 )
 
 // MemoryInfo some memory stats

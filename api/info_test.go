@@ -8,8 +8,8 @@ import (
 	"time"
 
 	"github.com/bojand/ghz-web/config"
-	"github.com/labstack/echo"
-	"github.com/labstack/echo/middleware"
+	"github.com/labstack/echo/v4"
+	"github.com/labstack/echo/v4/middleware"
 	"github.com/stretchr/testify/assert"
 	baloo "gopkg.in/h2non/baloo.v3"
 )

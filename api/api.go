@@ -5,7 +5,7 @@ import (
 
 	"github.com/bojand/ghz-web/config"
 	"github.com/bojand/ghz-web/service"
-	"github.com/labstack/echo"
+	"github.com/labstack/echo/v4"
 )
 
 // @title ghz-web API

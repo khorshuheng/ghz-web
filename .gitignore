@@ -22,3 +22,6 @@ ghz-web
 node_modules
 .cache
 dist
+
+# ide
+.idea

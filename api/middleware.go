@@ -2,7 +2,7 @@ package api
 
 import (
 	"github.com/bojand/ghz-web/service"
-	"github.com/labstack/echo"
+	"github.com/labstack/echo/v4"
 )
 
 func populateProject(ps service.ProjectService, next echo.HandlerFunc) echo.HandlerFunc {

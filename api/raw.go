@@ -7,7 +7,7 @@ import (
 
 	"github.com/bojand/ghz-web/model"
 	"github.com/bojand/ghz-web/service"
-	"github.com/labstack/echo"
+	"github.com/labstack/echo/v4"
 )
 
 // RawRequest request to the create raw api
