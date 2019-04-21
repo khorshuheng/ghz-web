@@ -11,7 +11,7 @@ require (
 	github.com/jinzhu/configor v1.0.0
 	github.com/jinzhu/gorm v1.9.4
 	github.com/jinzhu/now v1.0.0 // indirect
-	github.com/labstack/echo v3.3.10+incompatible
+	github.com/labstack/echo v3.3.10+incompatible // indirect
 	github.com/labstack/echo/v4 v4.0.0
 	github.com/labstack/gommon v0.2.8
 	github.com/leodido/go-urn v1.1.0 // indirect
